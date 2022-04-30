@@ -1,2 +1,2 @@
 # Collaborators
-- Nhat Linh Nguyen
+- Nhat Linh Nguyen's pull request
