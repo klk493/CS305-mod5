@@ -1,6 +1,9 @@
 # CS305-mod5
 Collab
 
+## Collaborators
+- Nhat Linh Nguyen
+
 ## Architecture
 This project will utilize services provided by amazon in order to develop a serverless express Node.js app.
 
@@ -8,6 +11,11 @@ Services used:
 - Lambda
 - IAM
 - KMS
+
+## Programming Languages
+- HTML, CSS
+- JavaScript
+- Python
 
 ## Depedencies
 For a Node.js Express app you usually need:
