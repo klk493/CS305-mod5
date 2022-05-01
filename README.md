@@ -12,6 +12,11 @@ Services used:
 - IAM
 - KMS
 
+## Programming Languages
+- HTML, CSS
+- JavaScript
+- Python
+
 ## Depedencies
 For a Node.js Express app you usually need:
 - express
